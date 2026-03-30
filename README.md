@@ -21,6 +21,7 @@ By the end of this lab, you should be able to say:
 > 3. I saw what a bare agent does without tools (hallucinates) vs. with MCP tools (answers correctly) — and I understand why.
 > 4. I built MCP tools that let the agent query logs and traces, turning observability data into a conversational interface.
 > 5. I used the agent to investigate a failure, fix a planted bug, and configure it to report system health proactively.
+> 6. I understand how to use VictoriaLogs and VictoriaTraces for debugging distributed systems.
 
 ## Architecture
 
